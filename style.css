@@ -14,7 +14,7 @@ body {
 }
 
 body:after {
-    content: "Thanks to Unsplash (background image)";
+    content: "";
     position: fixed;
     left: 0;
     bottom: 0;
@@ -29,7 +29,7 @@ h1 {
     grid-column-start: 1;
     grid-column-end: 3;
     color: rgb(0,255,85);
-    font-size: 48pt;
+    font-size: 28pt;
     font-family: 'Playfair Display', sans-serif;
   
     background-image: linear-gradient(120deg, rgb(0,0,0) 0%, rgb(0, 0, 0) 50%, rgb(0, 0, 0) 100%);
